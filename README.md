@@ -18,6 +18,19 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
+##### use case diagram
+
+##### class diagram
+
+##### sequence diagram
+
+##### collaboration diagram
+
+##### state chart diagram
+
+##### activity diagram
+
+##### package diagram
 
 
 
